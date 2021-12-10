@@ -1,4 +1,4 @@
-baseURL = 'https://petes70th.com/'
-languageCode = 'en-us'
-title = 'where is pete now?'
+baseURL = "baseURL=http://3.210.176.183/"
+languageCode = "en-us"
+title = "where is pete now?"
 theme = "ananke" 
