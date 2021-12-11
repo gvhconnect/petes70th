@@ -39,4 +39,4 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/gvhconnect"
-&copy 2021 go4wd.consulting
+copyright(c) 2021 go4wd.consulting
