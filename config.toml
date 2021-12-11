@@ -35,10 +35,7 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-hero-image-raw.jpg"
   recent_posts_number = 2
-<<<<<<< HEAD
-=======
 
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/GoHugoIO"
->>>>>>> 4d691bb (test 1.b.2)
