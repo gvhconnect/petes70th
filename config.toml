@@ -1,7 +1,7 @@
 title = "where is pete now?"
 baseURL = "http://3.210.176.183/"
 languageCode = "en-us"
-theme = "themes/ananke"
+theme = "gohugo-theme-ananke"
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
