@@ -36,6 +36,3 @@ enableRobotsTXT = true
   featured_image = "/images/gohugo-default-hero-image-raw.jpg"
   recent_posts_number = 2
 
-[[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/gvhconnect"
