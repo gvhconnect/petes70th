@@ -2,7 +2,6 @@ title = "where is pete now?"
 baseURL = "http://3.210.176.183/"
 languageCode = "en-us"
 theme = "themes/ananke"
-themesDir = "../.."
 resourceDir = "../resources"
 
 DefaultContentLanguage = "en"
