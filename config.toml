@@ -2,8 +2,7 @@ baseURL = "http://3.210.176.183/"
 languageCode = "en-us"
 title = "where is pete now?"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
-menu = ['main', 'footer'
-footer = "copyright(c) 2021 go4wd.consulting"
+menu = ['main', 'footer']
 
 resourceDir = "../resources"
 
