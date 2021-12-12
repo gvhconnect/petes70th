@@ -2,6 +2,7 @@ baseURL = "http://3.210.176.183/"
 languageCode = "en-us"
 title = "where is pete now?"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+menu = ['main', 'footer'
 footer = "copyright(c) 2021 go4wd.consulting"
 
 resourceDir = "../resources"
@@ -24,7 +25,7 @@ enableRobotsTXT = true
 
 [sitemap]
   changefreq = "monthly"
-  priority = 0.5
+  priority = 0.8
   filename = "sitemap.xml"
 
 [params]
@@ -33,11 +34,10 @@ enableRobotsTXT = true
   site_logo = ""
   description = "where old friends go, good times are bount to follow!"
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  background_color_class = "bg-black"
+  background_color_class = "bg-orange"
   featured_image = "/images/gohugo-default-hero-image-raw.jpg"
   recent_posts_number = 2
 
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/gvhconnect"
-
