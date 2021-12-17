@@ -16,7 +16,6 @@ phases:
            - rm -rf /tmp/*
   build:
       commands:
-           - cd petes70th_new
            - rm -rf public
            - hugo
            - aws s3 sync public/ s3://petes70th/ --region us-east-1 --delete 
