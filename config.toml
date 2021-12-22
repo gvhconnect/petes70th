@@ -1,6 +1,6 @@
 baseURL = "http://3.210.176.183/"
 languageCode = "en-us"
-title = "where is pete now?"
+title = "where is pete now???"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 menu = ['main', 'footer']
 
