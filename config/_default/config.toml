@@ -1,13 +1,15 @@
+baseURL = "https://staging.d1hcc03ui9os06.amplifyapp.com/"
 # baseURL = "https://main.dj1h7qwffogh3.amplifyapp.com/"
 languageCode = "en-us"
-title = "Hugo-Amplify Test (default)"
+title = "where is pete now???"
+#title = "Hugo-Amplify Test (default)"
 #theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
 #googleAnalytics = ""
 
 [params]
-  author = "Seán Murphy"
-  description = "A simple demo site"
+  author = "fastrkr"
+  description = "where friends can share"
   #githubUsername = "#"
   accent = "light-blue"
   showBorder = true
@@ -17,8 +19,8 @@ title = "Hugo-Amplify Test (default)"
   highlight = true
   highlightStyle = "dark"
   highlightLanguages = ["go", "yaml", "bash"]
-  copyright = "© Seán Murphy, 2021. Powered by [Hugo](https://gohugo.io) and the Minimal theme. GDPR Compliant; no tracking enabled."
-  version = "0.0.2"
+  copyright = "© fastrkr, 2022. Powered by [Hugo](https://gohugo.io) and the Ananke theme. GDPR Compliant; no tracking enabled."
+  version = "0.0.3"
 
 [[menu.main]]
   url = "/"
