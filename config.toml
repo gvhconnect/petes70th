@@ -14,7 +14,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "where is pete now????"
+    title = "where is pete now?"
     weight = 1
     contentDir = "content/en"
   [languages.fr]
