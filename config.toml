@@ -1,4 +1,4 @@
-baseURL = "http://3.210.176.183/"
+baseURL = "https://staging.d1hcc03ui9os06.amplifyapp.com/"
 languageCode = "en-us"
 title = "where is pete now???"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
