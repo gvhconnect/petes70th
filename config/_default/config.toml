@@ -3,7 +3,7 @@ baseURL = "https://staging.d1hcc03ui9os06.amplifyapp.com/"
 languageCode = "en-us"
 title = "where is pete now???"
 #title = "Hugo-Amplify Test (default)"
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = "github.com/theNewDynamic/gohugo-theme-ananke"
 menu = ['main', 'footer']
 #theme = "minimal"
 #disqusShortname = "username" # delete this to disable disqus comments
@@ -23,7 +23,7 @@ menu = ['main', 'footer']
   highlightLanguages = ["go", "yaml", "bash"]
   copyright = "© fastrkr, 2022. Powered by [Hugo](https://gohugo.io) and the Ananke theme. GDPR Compliant; no tracking enabled."
   version = "0.0.3"
-  #featured_image = "static/images/gohugo-default-hero-image-raw.jpg"
+  featured_image = "static/images/gohugo-default-hero-image-raw.jpg"
   recent_posts_number = 2
 
 [[menu.main]]
